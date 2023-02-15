@@ -1,0 +1,120 @@
+.header{
+
+    background-color: rgb(234, 128, 128);
+    overflow: auto;
+}
+
+.header ul{
+
+    text-align: center;
+    padding-top: 10;
+    padding-bottom: 10;
+    text-decoration: none;
+}
+
+.header li{
+
+    display: inline-block;
+    text-align: center;
+}
+
+.header li a{
+
+     display: inline-block;
+    height: auto;
+    width: 150px;
+
+    background-color: bisque;
+    padding: 10px;
+    margin: 4px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 20px;
+    color: black;
+
+}
+
+.header li a:hover {
+    background-color: crimson;
+}
+
+
+
+.main{
+
+    background-color: rgb(248, 161, 161);
+    overflow: auto;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+.images{
+
+    background-color: rgb(248, 161, 161);
+    overflow: auto;
+    text-align: center;
+}
+
+.images img{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 5px;
+    margin: 10px;
+}
+
+.images h4{ 
+    
+    display: inline-block;
+    height: auto;
+    width: auto;
+
+    background-color: rgba(250, 124, 124, 0.507);
+    padding: 10px;
+    margin: 4px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 20px;
+    color: #750329;
+    
+}
+
+
+.footer{
+   
+    background-color: rgb(234, 128, 128);
+    overflow: auto;
+    text-align: center;
+   
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+   
+   }
+
+
+
+h5{
+    background-color: rgba(248, 161, 161, 0.532);
+    text-align: center;
+    padding: 10px;
+    margin: 4px;
+    color: rgba(30, 3, 65, 0.758);
+     
+    overflow: auto;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    padding: 10px;
+    
+    border-radius: 5px;
+}
+
+
